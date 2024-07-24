@@ -1,6 +1,6 @@
-# Mass Run
+# Mass run DevCenter
 
-This example demonstrates how to use the [Moderne CLI](https://docs.moderne.io/user-documentation/moderne-cli/getting-started/cli-intro) to run recipes on all organizations (collection of repositories) using the Moderne platform.
+This example demonstrates how to use the [Moderne CLI](https://docs.moderne.io/user-documentation/moderne-cli/getting-started/cli-intro) to run DevCenter on all (or a list of) organizations (collection of repositories) using the Moderne platform.
 
 ## Step 1: Customize the Docker image
 
